@@ -11,10 +11,10 @@ Moreover, you will need to have mysql installed and set up.
 Once you have an account on mysql, update your password in the **SQL.py** file.
 
 #### To install the requirements use the following:
-'''
+```
 pip install mysql-connector-python
 pip install matplotlib
-'''
+```
 
 #### To install mySQl use the following link:
 https://dev.mysql.com/downloads/installer/
