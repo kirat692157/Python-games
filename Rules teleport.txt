@@ -1,0 +1,8 @@
+1> Player 1 gets an X
+Player 2 gets an O
+These symbols are predefined and cant be changed
+2> each player rolls a die by pressing enter
+3> if a player gets cut by other one the player who got cut returns
+to the start
+4> Some random numbers will teleport you to a higher/lower number
+5> Reach 100 to win

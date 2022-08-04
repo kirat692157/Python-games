@@ -1,0 +1,26 @@
+***RULES***
+1> This a game that only allows maximum 4 players
+(at this point in time)
+2> Player 1 gets a X
+Player 2 gets a O
+player 3 gets a %
+Player 4 gets a $
+these symbols are predefined and cant be changed
+(at this point in time)
+3> The players must choose a no on the board to place their piece
+in place of the number on the board.
+4> The piece replaces the no. on the board
+5> The player cant place a piece in the air;
+meaning that there has to be a piece of any player
+under so as to place your piece over it;;
+like;;;
+X
+23
+is an invalid move
+while;;;
+X
+O
+is a valid move
+6> The player that connects 4 pieces vertically or horizontally or
+diagonally wins the game.
+like;
